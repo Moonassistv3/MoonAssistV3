@@ -1,1 +1,3 @@
-Remaking
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Moonassistv3/MoonAssistV3/main/otherstuff/clicktp.txt"))();
