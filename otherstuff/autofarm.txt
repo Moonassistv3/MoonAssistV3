@@ -133,7 +133,7 @@ function ATM()
         local num = math.random(3,7)
         game.StarterGui:SetCore("SendNotification", {
             Title = "WARNING!";
-            Text = "Joining a different server" .. tostring(num);
+            Text = "Joining a different server (BROKEN ATM)" .. tostring(num);
             Duration = num;
         })
         wait(num)
